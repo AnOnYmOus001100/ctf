@@ -1,0 +1,16 @@
+ssh ctf-player@venus.picoctf.net -p 55598
+b60940ca
+ls
+cat 1of3.flag.txt
+cat instructions-to-2of3.txt
+cd /
+ls -al
+cat 2of3.flag.txt
+cat instructions-to-3of3.txt
+cd ~
+ls
+cat 3of3.flag.txt 
+cd drop-in/
+ls
+"You add all parts to complete the flag"
+

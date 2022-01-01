@@ -1,0 +1,4 @@
+unzip Addadshashanammu.zip
+"cd to lowest subdirectory"
+ls -al
+chmod +x fang-of-haynekhtnamet

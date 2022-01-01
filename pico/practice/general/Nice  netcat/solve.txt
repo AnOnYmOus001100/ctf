@@ -1,0 +1,2 @@
+nc mercury.picoctf.net 35652
+"Then convert decimal to ASCII"
