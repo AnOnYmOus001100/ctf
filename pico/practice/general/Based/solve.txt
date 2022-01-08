@@ -1,0 +1,5 @@
+nc jupiter.challenges.picoctf.org 29956
+python3
+b = "binary string"
+''.join(b.split(" "))
+''.join(chr(int(b[i:i+8], 2)) for i in range(0, len(b), 8))
